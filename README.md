@@ -1,7 +1,8 @@
-<img src = "Elegant Black Blue Light Coming Soon Banner.gif"/>
-# 💫 About Me:
+<img src = "Elegant Black Blue Light Coming Soon Banner.gif"/> <br/>
+#  💫 About Me:
 🌱 I’m currently learning: Deep Learning<br>
-
+✍ I write technical blogs on Dev.to! (also a trusted member there <3) <br>
+✨ I love solving minor inconveniences with code. Tell me a minor inconvenience you face in your daily life, and i'll try building something to solve it.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vedangi-thokal-528037249/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/Vedangitt) 
