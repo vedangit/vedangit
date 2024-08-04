@@ -1,7 +1,7 @@
 <img src = "Elegant Black Blue Light Coming Soon Banner.gif"/> <br/>
 #  💫 About Me:
-🌱 I’m currently working on: Deep Learning, Django<br>
-✍ I write technical blogs on Dev.to! (also a trusted member there <3) <br>
+🌱 I’m currently working on: Deep Learning, NextJs, IOT<br>
+✍ I write technical blogs on <a href = "https://dev.to/vedangit"> Dev.to!</a> (also a trusted member there <3) <br>
 ✨ I love solving minor inconveniences with code. Tell me a minor inconvenience you face in your daily life, and i'll try building something to solve it.
 
 ## 🌐 Socials:
