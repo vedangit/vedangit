@@ -12,7 +12,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vedangit&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedangit&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
+<br>
+<img src = "2024-50.gif" style = "height:100px;"/> <br>
 ### Meanwhile, enjoy a Dev Meme!
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
